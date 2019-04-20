@@ -1,2 +1,0 @@
-# demmey.project
-dummy
